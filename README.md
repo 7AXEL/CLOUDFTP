@@ -14,7 +14,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/   DISCLAIMER   -yellow?style=for-the-badge">
 
-### IPEX
+### CLOUDFTP
 These tools allow you to make an FTP connection with your server and transfer files to another created by developer and hacker A.X.E.L
 ### INSTALLATION
 - Just Follow steps
