@@ -31,7 +31,7 @@ $ python main.py
 ```
 ### DEPENDENCISE
 
-**`CLOUDFTP`** requires following programs to run properly - 
+**`CLOUDFTP`** requires following programs to run properly
 - `openjdk-17`
 - `ruby`
 - `python3`
