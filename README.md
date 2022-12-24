@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Open%20Source-Yes-magenta?style=flat-square">
 <img src="https://img.shields.io/badge/Written%20In-BASH,PYTHON,RUBY,JAVA-cyan?style=flat-square">
 </p>
-<img src="https://github.com/7AXEL/CLOUD_FTP/blob/main/system/assets/logo.jpg">
+<img src="https://github.com/7AXEL/CLOUDFTP/blob/main/system/assets/logo.jpg">
 </p>
 
 <p align="center">
