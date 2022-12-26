@@ -12,7 +12,7 @@ printf "\033[0;94m Setting up mplayer\033[0;0m\n"
 sleep 1
 apt-get update -y
 apt-get upgrade -y
-apt-get install python openjdk17 ruby mplayer
+apt install python openjdk17 ruby mplayer -y
 printf "\033[0;93mInstallation Complete\n"
 sleep 2
 clear
